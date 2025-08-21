@@ -15,6 +15,8 @@ Explorar e visualizar tendências salariais na área de dados, facilitando a an�
 - **Principais Métricas:** O painel exibe KPIs como salário médio, salário máximo, total de registros e cargo mais frequente.
 - **Gráficos:** Inclui visualizações como distribuição de salários, comparação entre cargos, proporção de trabalho remoto e mapa de salários por país para cientistas de dados.
 
+- [Aulas da imersão de Python](src/notebooks/imersao_dados_python.ipynb)
+
 ## Ferramentas Utilizadas
 
 - Python
